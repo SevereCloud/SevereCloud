@@ -12,7 +12,7 @@
 
 ### 📫 Как со мной связаться (How to reach me)
 
-- [VK](https://vk.me/severecloud)
+- [VK](https://vk.me/suv)
 - [Telegram](https://t.me/severecloud)
 - severecloud@gmail.com
 
