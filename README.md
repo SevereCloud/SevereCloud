@@ -18,13 +18,12 @@
 
 ### 🛠 Использую
 
-Ubuntu, Git, Docker, Golang, TypeScript, React, Svelte.
+MacBook, Git, Docker, Golang, TypeScript, React.
 
 ### 🔭 Активно работаю над
 
 - [VKUI](https://github.com/VKCOM/VKUI) библиотека React-компонентов
 - [VK SDK](https://github.com/SevereCloud/vksdk) Golang модули, для работы с VK
-- [Svelte VK](https://github.com/sveltevk) попытка портировать VKUI на svelte
 
 ### ⚡ Разное
 
