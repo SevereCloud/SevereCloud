@@ -18,7 +18,7 @@
 
 ### 🛠 Использую
 
-MacBook, Git, Docker, Golang, TypeScript, React.
+MacBook, Git, Docker, TypeScript, React, Rust, Golang
 
 ### 🔭 Активно работаю над
 
@@ -27,7 +27,6 @@ MacBook, Git, Docker, Golang, TypeScript, React.
 
 ### ⚡ Разное
 
-- 2021 провел в армии
 - [Победа в хакатоне «Вездекод»](https://vk.com/wall-147415323_6861#:~:text=%D0%90%D0%BC%D0%B8%D0%BD%D0%B0%D0%B7%D0%B8%D0%BD)
 - [Генератор клавиатуры](https://severecloud.github.io/vk-keyboard/) для ботов VK.
 - [Тестирование клавиатуры](https://vk.com/public174472256) для ботов VK.
